@@ -1,0 +1,80 @@
+name: al_quran
+description: Flutter App for the holy book of Qur'an.
+
+version: 2.5.2+9
+
+environment:
+  sdk: ">=2.15.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  
+  # utils
+  url_strategy: ^0.2.0
+  cupertino_icons: ^1.0.3
+  shimmer: ^2.0.0
+  share: ^2.0.4
+
+  # network
+  dio: ^4.0.6
+  url_launcher: ^6.0.12
+  
+  # state management
+  provider: ^6.0.1
+  bloc: ^7.1.0
+  flutter_bloc: ^7.2.0
+  equatable: ^2.0.3
+
+  # flutter code
+  flutter_lints: ^1.0.4
+
+  # cache
+  hive: ^2.0.4
+  hive_flutter: ^1.1.0
+  shared_preferences: ^2.0.8
+
+  # app info
+  package_info_plus: ^1.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # cache local storage
+  build_runner: ^2.1.5
+  hive_generator: ^1.1.1
+
+# The following section is specific to Flutter.
+flutter:
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/
+    - assets/logos/
+    - assets/intro/
+    - assets/images/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: fonts/Poppins-Regular.ttf
+        - asset: fonts/Poppins-Medium.ttf
+          weight: 600
+        - asset: fonts/Poppins-Light.ttf
+          weight: 200
+        - asset: fonts/Poppins-Bold.ttf
+          weight: 900
+        - asset: fonts/Poppins-Italic.ttf
+        - asset: fonts/Poppins-SemiBold.ttf
+    - family: ShareIcon
+      fonts:
+        - asset: fonts/ShareIcon.ttf
+    - family: Noor
+      fonts:
+        - asset: fonts/noor-regular.ttf
