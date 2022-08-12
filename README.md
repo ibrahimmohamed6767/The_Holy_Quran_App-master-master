@@ -1,18 +1,9 @@
-# The Holy Qur'an 2.5.0
+# The Holy Qur'an 3.0.2
 
 Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter
 The data is fetched using API and now the **offline mode** is available. So, you need internet for the first time only!
 
 <img src="https://user-images.githubusercontent.com/43790152/163690699-e5a08def-5b9b-49f2-93d4-7f3ff5ee1862.png">
-
-<div align="center">
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-[![GitHub Forks](https://img.shields.io/github/forks/saadhaxxan/Car_Game_Python_Pygame.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/parvezkhan-india/The_Holy_Quran_App/fork)
-[![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/Car_Game_Python_Pygame.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/parvezkhan-india/The_Holy_Quran_App/issues)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
-
-</div>
 
 ## 📁 Download Now
 
@@ -22,15 +13,9 @@ Get it from <a href="">Download and Install</a>
 
 Watch the promo video <a href="">here.</a>
 
-## 💻 Installation steps
-
-- Updated to `Flutter 2.10.4` Now!
-- Dart SDK `2.15` with Sound Null Safety!
-
 Open CMD where you want to clone the project & run the following commands
 
 ```
-git clone https://github.com/parvezkhan-india/The_Holy_Quran_App.git
 cd The_Holy_Quran_App
 flutter packages get
 flutter run
@@ -68,15 +53,7 @@ API Used:
 ## 🔑 License
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
-## 🧑 Author
-
-#### PARVEZ KHAN
-[![LinkedIn Link](https://img.shields.io/badge/Connect-Parvez%20Khan-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect)](https://www.linkedin.com/in/parvezkhan-india/)
-
-You can also follow my GitHub Profile to stay updated about my latest projects:
-
-[![GitHub Follow](https://img.shields.io/badge/Connect-Parvez%20Khan-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/parvezkhan-india)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
-Copyright (c) 2022 PARVEZ KHAN
+Copyright (c) 2022 
